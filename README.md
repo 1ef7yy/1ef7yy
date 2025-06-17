@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=1ef7yy)
 
-<p dir="auto">Hi, I'm <strong>Roman</strong>, student of 💻 <strong>Informational Systems and Technologies</strong> RTU MIREA 🌐 from Russia, 19 years old.</p>
+<p dir="auto">Hi, I'm <strong>Makar</strong>, student of 💻 <strong>Informational Systems and Technologies</strong> RTU MIREA 🌐 from Russia, 19 years old.</p>
 
 <ul dir="auto">
 <li>💻 <strong>Studying:</strong> Currently learning Golang, Python and DevOps tools.</li>
