@@ -23,9 +23,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ef7yy&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
 
 <p dir="auto">You can find my💡 projects in the following way:</p>
-- 📱 *go-uuid*: [UUID generator](https://github.com/1ef7yy/go-uuid) supporting almost all version written entirely in Golang
-- 📸 *img-to-ascii*: [CLI image to ASCII converter](https://github.com/1ef7yy/img-to-ascii) that is fast and rich with features
-- 📥 *go-loadbalancer*: [A lightweight loadbalancer](https://github.com/1ef7yy/go-loadbalancer) that supports a wide variety of plug-in algorithms and custom healthchecks
+
+- 📱 **go-uuid**: [UUID generator](https://github.com/1ef7yy/go-uuid) supporting almost all version written entirely in Golang
+- 📸 **img-to-ascii**: [CLI image to ASCII converter](https://github.com/1ef7yy/img-to-ascii) that is fast and rich with features
+- 📥 **go-loadbalancer**: [A lightweight loadbalancer](https://github.com/1ef7yy/go-loadbalancer) that supports a wide variety of plug-in algorithms and custom healthchecks
 
 <!--
 **1ef7yy/1ef7yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
