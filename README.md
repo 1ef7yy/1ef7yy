@@ -1,4 +1,33 @@
-## Hi there 👋
+<h1>Hi there, I'm Makar</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3>Get in touch:</h3>
+<a href="https://t.me/1ef7yy" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: @kasimovrom" height="25" width="30" style="max-width: 100%;"></a>
+
+<p dir="auto"></p>
+
+![](https://komarev.com/ghpvc/?username=1ef7yy)
+
+<p dir="auto">Hi, I'm <strong>Roman</strong>, student of 💻 <strong>Informational Systems and Technologies</strong> RTU MIREA 🌐 from Russia, 19 years old.</p>
+
+<ul dir="auto">
+<li>💻 <strong>Studying:</strong> Currently learning Golang, Python and DevOps tools.</li>
+<li>🎯 <strong>Goals:</strong> Contribute to open-source technologies, be a brilliant software engineer.</li>
+</ul>
+
+<p dir="auto"></p>
+
+![](https://github-readme-stats.vercel.app/api?username=1ef7yy&show_icons=true&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
+
+<p dir="auto"></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ef7yy&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
+
+<p dir="auto">You can find my💡 projects in the following way:</p>
+<ul dir="auto">
+<li>📱 <strong>go-uuid: </strong>[UUID generator](https://github.com/1ef7yy/go-uuid) supporting almost all version written entirely in Golang</li>
+<li>📸 <strong>img-to-ascii: </strong>[CLI image to ASCII converter](https://github.com/1ef7yy/img-to-ascii) that is rich with features and fast</li>
+<li>📥 <strong>go-loadbalancer: </strong>[A lightweight loadbalancer](https://github.com/1ef7yy/go-loadbalancer) that supports a wide variety of plug-in algorithms and custom healthchecks</li>
+</ul>
 
 <!--
 **1ef7yy/1ef7yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
