@@ -24,7 +24,7 @@
 
 <p dir="auto">You can find my💡 projects in the following way:</p>
 
-- 📱 **go-uuid**: [UUID generator](https://github.com/1ef7yy/go-uuid) supporting almost all version written entirely in Golang
+- 📱 **go-uuid**: [UUID generator](https://github.com/1ef7yy/go-uuid) supporting almost all versions written entirely in Golang
 - 📸 **img-to-ascii**: [CLI image to ASCII converter](https://github.com/1ef7yy/img-to-ascii) that is fast and rich with features
 - 📥 **go-loadbalancer**: [A lightweight loadbalancer](https://github.com/1ef7yy/go-loadbalancer) that supports a wide variety of plug-in algorithms and custom healthchecks
 
