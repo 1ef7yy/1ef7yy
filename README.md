@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Makar</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Get in touch:</h3>
-<a href="https://t.me/1ef7yy" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: @kasimovrom" height="25" width="30" style="max-width: 100%;"></a>
+<a href="https://t.me/1ef7yy" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: @leftyyyyyy" height="25" width="30" style="max-width: 100%;"></a>
 
 <p dir="auto"></p>
 
