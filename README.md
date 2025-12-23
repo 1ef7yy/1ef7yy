@@ -1,7 +1,8 @@
 <h1>Hi there, I'm Makar</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Get in touch:</h3>
-<a href="https://t.me/leftyyyyyy" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/telegram.svg" alt="Telegram: @leftyyyyyy" height="25" width="30" style="max-width: 100%;"></a>
+[![Telegram](https://img.shields.io/badge/@jaam96-2CA5E0?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/leftyyyyyy)
+[![Gmail](https://img.shields.io/badge/jaam8@yandex.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ustyantsev.makar1@gmail.com)
 
 <p dir="auto"></p>
 
