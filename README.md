@@ -22,7 +22,8 @@
 
 <p dir="auto"></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ef7yy&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=11)
+[![1ef7yy's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ef7yy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p dir="auto">You can find my💡 projects in the following way:</p>
 
